@@ -20,9 +20,10 @@ In order for this repo to be a reliable source, you **must** follow the next gui
 * If needed, you can import classes (as in java *import \<package\>.\<Class\>*) from other implemented DS but you **MUST NOT** copy them.
   * If there is a default library implementation of the secondary required DS, you should prefer it over the custom implementation ( Unless you have a great reason to not use it -*which must be highly documented*-).
 * Try to follow the most *Best Java Practices* you can.
-* Prefer to use Generic Datatypes when possible instead of Object datatype.
+* Prefer to use Generic Datatypes instead of Object datatype when possible.
 * All the classes/methods/variables must be documented with short comments, the easier to understand the better. Don't confuse *documented* with *exaggeratedly verbose documentation*
   * Documentation must be either in english or spanish, if they are in spanish, please speak promptly with another team member asking him to translate it.
+  * Don't worry if your english isn't good enough, just make sure you make your best effort, we won't judge.
   * Remember to document the algorithm performance using the Big O notation.
   * If possible, try to explain when it's a good idea to use the DS or when not.
   * **If you know who invented the algorithm/DS you are implementing, you MUST include his name on the documentation.**
