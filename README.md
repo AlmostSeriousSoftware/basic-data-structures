@@ -19,7 +19,7 @@ In order for this repo to be a reliable source, you **must** follow the next gui
   * If you wish to write several implementations, you can make a *java interface*.
 * If needed, you can import classes (as in java *import \<package\>.\<Class\>*) from other implemented DS but you **MUST NOT** copy them.
   * If there is a default library implementation of the secondary required DS (or a trivial algorithm), you should prefer it over the custom implementation ( Unless you have a great reason to not use it -*which must be highly documented*-).
-  * You can find a list of the built-in DSs and the *Collections package* provided methods.
+  * You can find a list of the built-in DSs and the methods provided by the *Java Collections package* [here](http://java-performance.info/java-collections-overview/).
 * Try to follow the most *Best Java Practices* you can.
 * Prefer to use Generic Datatypes instead of Object datatype when possible.
 * All the classes/methods/variables must be documented with short comments, the easier to understand the better. Don't confuse *documented* with *exaggeratedly verbose documentation*
